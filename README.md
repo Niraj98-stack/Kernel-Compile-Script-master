@@ -2,7 +2,7 @@
 
 HOW TO USE THIS SCRIPT
 
-- git clone https://github.com/karthik558/Kernel-Compile-Script Script
+- git clone https://github.com/Niraj98-stack/Kernel-Compile-Script-master.git
 
 - cd Script
 
